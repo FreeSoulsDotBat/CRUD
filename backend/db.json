@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jonatãn da Fonseca Bossan",
+      "email": "jonatan.fbossan@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Davi da Fonseca Bossan",
+      "email": "davi.bossan@gmail.com"
+    }
+  ]
+}
